@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[陈素封·读立写生]]></title>
-  <subtitle><![CDATA[每天千字践行者，微信公众号「cnFeat」，坚持原创，每天更新。]]></subtitle>
+  <subtitle><![CDATA[专注自我心智成长，每天千字践行一年，微信公众号「cnFeat」]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.cnfeat.com/"/>
-  <updated>2015-03-02T03:50:46.015Z</updated>
+  <updated>2015-04-13T06:58:17.832Z</updated>
   <id>http://www.cnfeat.com/</id>
   
   <author>
@@ -69,7 +69,7 @@
     <link href="http://www.cnfeat.com/2015/02/22/2015-02-22-source-of-knowledge/"/>
     <id>http://www.cnfeat.com/2015/02/22/2015-02-22-source-of-knowledge/</id>
     <published>2015-02-21T16:00:00.000Z</published>
-    <updated>2015-03-02T03:49:39.000Z</updated>
+    <updated>2015-03-02T04:24:09.000Z</updated>
     <content type="html"><![CDATA[<p>大概半年前，我和一个朋友聊天，聊得兴起，他问起我学习的源头在哪里？我说现在获取的知识都是在网上，我现在告诉你的都是二手的信息，只要有心，肯定可以找到想要的知识，然后我就准备兴致勃勃地告诉他获取、保存和分享知识的方法，但是他却告诉我，你其实不用告诉我，我喜欢跟你聊天就因为我就喜欢接收二手的信息。</p>
 <p>我问为什么？他说，这些信息已经过你的甄别，我可以省去大部分探索的时间，我拿来就是。</p>
 <p>类似这样的事情在朋友圈内也经常发生，各种转发的二手信息不计其数，未经验证的谣言、毫无意义的鸡汤、无病呻吟的小品、拼凑抄袭的笑话，各种文章天花乱坠，源源不断的信息从你眼前流过，你觉得这就是信息的精华，这就是前人的智慧，你懒得去甄别，渐渐地，你已不知道自己想要的是什么，习惯于知识喂养，被动地接收吞咽，而殊不知那些信息已经是落后于时间的无用碎片。</p>
@@ -94,7 +94,7 @@
     
       <category term="源头" scheme="http://www.cnfeat.com/tags/%E6%BA%90%E5%A4%B4/"/>
     
-      <category term="知识管理与学习" scheme="http://www.cnfeat.com/categories/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AD%A6%E4%B9%A0/"/>
+      <category term="千字文与写作" scheme="http://www.cnfeat.com/categories/%E5%8D%83%E5%AD%97%E6%96%87%E4%B8%8E%E5%86%99%E4%BD%9C/"/>
     
   </entry>
   
