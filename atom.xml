@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注自我心智成长，每天千字践行一年，微信公众号「cnFeat」]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.cnfeat.com/"/>
-  <updated>2015-05-02T18:47:51.236Z</updated>
+  <updated>2015-05-22T04:19:50.584Z</updated>
   <id>http://www.cnfeat.com/</id>
   
   <author>
@@ -13,6 +13,50 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[24款最值得推荐的中文字体]]></title>
+    <link href="http://www.cnfeat.com/2015/05/22/2015-05-22-a-24-chinese-fonts/"/>
+    <id>http://www.cnfeat.com/2015/05/22/2015-05-22-a-24-chinese-fonts/</id>
+    <published>2015-05-21T16:00:00.000Z</published>
+    <updated>2015-05-22T04:15:58.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://cnfeat.qiniudn.com/24-chinese-fonts.jpg" alt=""></p>
+<p>百度云地址：<a href="http://pan.baidu.com/s/1pJKEJKB" target="_blank" rel="external">http://pan.baidu.com/s/1pJKEJKB</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[我做这个清单的理由很简单——讨厌每次都要回头检查，另附PDF地址。]]>
+    
+    </summary>
+    
+      <category term="学习" scheme="http://www.cnfeat.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="知识管理" scheme="http://www.cnfeat.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
+    
+      <category term="知识管理与学习" scheme="http://www.cnfeat.com/categories/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[一张图看懂可供性]]></title>
+    <link href="http://www.cnfeat.com/2015/05/07/2015-05-07-affordance-one-picture/"/>
+    <id>http://www.cnfeat.com/2015/05/07/2015-05-07-affordance-one-picture/</id>
+    <published>2015-05-06T16:00:00.000Z</published>
+    <updated>2015-05-22T04:18:47.000Z</updated>
+    <content type="html"><![CDATA[<p>本图为文章<br><a href="http://www.jianshu.com/p/6f1404e0240d" target="_blank" rel="external">《世界并非如你所见—用可供性来发现更大的世界》</a><br>的补充，详细可前往阅读。</p>
+<p><img src="http://cnfeat.qiniudn.com/affordance-onepicture-2.jpg" alt=""></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[本图为文章 《世界并非如你所见—用可供性来发现更大的世界》 的补充，详细可前往阅读。]]>
+    
+    </summary>
+    
+      <category term="学习" scheme="http://www.cnfeat.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="知识管理" scheme="http://www.cnfeat.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
+    
+      <category term="停下来思考" scheme="http://www.cnfeat.com/categories/%E5%81%9C%E4%B8%8B%E6%9D%A5%E6%80%9D%E8%80%83/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[世界并非如你所见——用可供性来发现更大的世界]]></title>
@@ -1329,148 +1373,6 @@
       <category term="ingress" scheme="http://www.cnfeat.com/tags/ingress/"/>
     
       <category term="翻墙" scheme="http://www.cnfeat.com/tags/%E7%BF%BB%E5%A2%99/"/>
-    
-      <category term="这就是生活" scheme="http://www.cnfeat.com/categories/%E8%BF%99%E5%B0%B1%E6%98%AF%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[话说前几天我入了一个shadowsocks账号，没想到……]]></title>
-    <link href="http://www.cnfeat.com/2015/02/02/2015-02-02-shadowsocks/"/>
-    <id>http://www.cnfeat.com/2015/02/02/2015-02-02-shadowsocks/</id>
-    <published>2015-02-01T16:00:00.000Z</published>
-    <updated>2015-02-02T05:26:23.000Z</updated>
-    <content type="html"><![CDATA[<p>翻墙是我一直在做的事情，虽然我喜欢折腾，但此前已经在这件事情上花费了颇多的时间，尤其是最近深感时间越来越不够用，所以，我觉得应该采取一种付费的方式来达到最好的效果。</p>
-<p>由于付费翻墙不是刚需，平时要查什么资料的话，用免费的也可以解决，所以最近两三个月，这个想法就被搁置起来，直到最近参加跨界创新社群，有幸和GDG（Google Developer Groups）珠海区的组织者一起吃饭聊天，聊到了老池，聊到了翻墙，这个想法又浮现在我脑中。</p>
-<p>一个想法在我脑中绕来绕的时候，我就想要去实现它，况且这个想法绕了好几个月，绕到我自己都烦了，就像在孙悟空面前那种飞来飞去的苍蝇一样。</p>
-<p>我就问那些GDG的大牛们，你们都是怎么翻墙的？</p>
-<p>大牛说，他们用的是shadowsocks，集资购买了海外主机，也就是私服，相当于是付费翻墙。</p>
-<p>据我所知，大部分大牛们虽然手上有技术，但是几乎都不会自己折腾，付一点点钱获得个六根清净，与其花时间在折腾这些鸡毛蒜皮的事情，不如用这时间花在更值得的事情上去。对于他们来讲，付费翻墙更多是属于一种价值观，就像是买Mac来学编程一样，认同也好，不认同也没有关系，自己做自己喜欢的事情就好。</p>
-<p>我一听大牛说完，即刻表示想入一只苍蝇拍，将那只讨厌的苍蝇给拍死。大牛将我拉群，结果我第二天就将那只苍蝇给拍死了。</p>
-<p>说说，这几天我用shadowsocks账号来干嘛吧，唉，说了你也不相信，我居然用来玩游戏……</p>
-<p>这个游戏叫做「Ingress」，中文名叫做「浸视界」，是将虚拟世界和现实连接起来的一款游戏，简单的来说，这是一款蓝军和绿军的塔防游戏。</p>
-<p>你可以在隔壁的银行门口的石狮子建立一个点，再到商场门口的喷泉建一个点，最后在家门口的大石头建一个点，三点一面，如果你是蓝军，这块地就是蓝色的，就是你的。你要做的就是圈更多的地，或者攻击占据绿军的地。</p>
-<p>其实，我原来不知道这游戏，是读书会的一位朋友推荐的，但由于需要翻墙，加上我平时不怎么玩游戏，于是这个想法就一直被放着。阴差阳错地，在我入shadowsocks账号的当天，我和这位朋友刚好要去中山，你知道，路途是非常无聊的，于是，那天我就入坑了，选的是蓝军。</p>
-<p>在昨天的总结中，我发现我平时运动的时间越来越少，正在深感不安，这个游戏的出现刚好填补了运动的空白。</p>
-<p>玩了这个游戏，我出去溜达的时间明显增多了。</p>
-<p><img src="http://cnfeat.qiniudn.com/Downloads.jpg" alt=""></p>
-<p>以上都是我昨天出去建的Portal，目前给我带来的感想如下：</p>
-<ul>
-<li>提醒周遭美好（奇葩）事物的存在</li>
-<li>积极发现平时视而不见的标志物</li>
-<li>实施和菜头说的游走周围三公里构想</li>
-<li>玩Ingress的效果比佩戴手环还好</li>
-<li>开启另一个虚拟世界的大门，认识老玩家</li>
-<li>深感本地区爱翻墙的人还是挺多</li>
-<li>……</li>
-</ul>
-<p>总而言之，我入个shadowsocks账号，没有想到给我的生活带来如此的变化。</p>
-<hr>
-<h3 id="【一期一会】"><strong>【一期一会】</strong></h3>
-<p>如果你肯选一个周末，在自己家周围3平方公里内仔细转一圈，也许你会对生活有一种全新的看法。在你自认为了若指掌的这块小地方，竟然有如此之多千姿百态的存在，提供着千奇百怪的服务，驱使难以计数的人忙忙碌碌地工作和消费，那么，你也就能切身地感觉到生活中所蕴藏的热量。</p>
-<p>————和菜头《你家周围三公里》</p>
-<hr>
-<p><img src="http://7d9mjz.com1.z0.glb.clouddn.com/2014-12-15.jpg" alt=""></p>
-<p>（题图：ingress游戏截图 by 我）</p>
-<p>回复关键词「三公里」看</p>
-<h3 id="和菜头的那篇《你家周围三公里》">和菜头的那篇《你家周围三公里》</h3>
-<p>在你所居住的城市里，绝大部分地区对于你来说是个盲区。你最多知道街道的名字，小区的楼盘，但你不知道那里有什么。不单如此，就算是在你居住的地方，周围方圆3平方公里范围内，也有超过七成的地方你从来没有去过。</p>
-<p><a href="http://t.cn/RZkz7kK" target="_blank" rel="external">http://t.cn/RZkz7kK</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[对于他们来讲，付费翻墙更多是属于一种价值观，就像是买Mac来学编程一样，认同也好，不认同也没有关系，自己做自己喜欢的事情就好。]]>
-    
-    </summary>
-    
-      <category term="ingress" scheme="http://www.cnfeat.com/tags/ingress/"/>
-    
-      <category term="翻墙" scheme="http://www.cnfeat.com/tags/%E7%BF%BB%E5%A2%99/"/>
-    
-      <category term="这就是生活" scheme="http://www.cnfeat.com/categories/%E8%BF%99%E5%B0%B1%E6%98%AF%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[不要嘲笑别人的梦想]]></title>
-    <link href="http://www.cnfeat.com/2015/02/01/2015-02-01-reading-club-7/"/>
-    <id>http://www.cnfeat.com/2015/02/01/2015-02-01-reading-club-7/</id>
-    <published>2015-01-31T16:00:00.000Z</published>
-    <updated>2015-02-01T08:07:51.000Z</updated>
-    <content type="html"><![CDATA[<h3 id="不要嘲笑别人的梦想">不要嘲笑别人的梦想</h3>
-<h3 id="————慢点书友会分享记录（7）">————慢点书友会分享记录（7）</h3>
-<p>时间：2015年1月31日</p>
-<h2 id="参与人员">参与人员</h2>
-<p>@Feat、@五月、@大band-clown、@燕子、@糖心、@MissYou、@阿jie、@犇魔王</p>
-<h2 id="书单推荐">书单推荐</h2>
-<h3 id="@Feat推荐《拆掉思维里的墙》">@Feat推荐《拆掉思维里的墙》</h3>
-<p>很多我们习以为常的思维习惯，并不一定是正确的。</p>
-<p>@Feat说到买房与租房的事情，与其在郊外买一套房子，还不如在市区租一套房子，用上下班的两三个小时来做自己喜欢做的事情。</p>
-<p>说到租房子，很多人觉得无须租的房子花费太多的心思，其实不然，房子是自己每天住的地方，自己有责任将租的房子也搞得干干净净，应该添置的设备还得添置，应该去修补的地方还是去修补。</p>
-<blockquote>
-<p>小分叉：@阿jie就说到英国人在淇澳岛租了一间农屋，本来家徒四壁，什么都没有，但是屋子的租金不是很贵，便一口气租了十年，花了钱装修，现在就变成了一间窗明几净的房子。</p>
-<p>@Feat：嗯，这间屋子我也进去看过，装修的效果还相当不错。</p>
-</blockquote>
-<h3 id="@五月推荐《五十度灰》">@五月推荐《五十度灰》</h3>
-<p>@五月本以为这本书是小清新，但正如@犇魔王剧透的那样，这是一本小黄书。</p>
-<blockquote>
-<p>小分叉：话说@犇魔王的涉猎还是挺广的呀。</p>
-</blockquote>
-<p>@五月说这本书开头其实是很少女心的，讲述了一位「玛丽苏」少女遇上了以为霸道男，前面的剧情都是很言情，但到达本书的四分之一之后，正当那位少女决定将身体奉献给霸道男的时候，剧情急转，霸道男拿出了一份调教协议，上面列出了各种的调教清单……</p>
-<p>好吧，剧情介绍到此。</p>
-<blockquote>
-<p>小分叉：什么是玛丽苏？</p>
-<p>玛丽苏，即Mary Sue的音译。玛丽苏（Mary Sue）一词原出于国外的同人小说圈，某外国作者创造了一个名叫Mary Sue的虚构女主角在自编的星际迷航(Star Trek)同人文里尽情YY，讽刺那些对原作毫无了解、捏造事实的同人作者，因而名声大振，这个虚构名字也成为了自恋的代名词。</p>
-<p>@五月解释，实际上就是那些全世界围着转，有钱，多人喜欢，粉红系的女主角。</p>
-<p>P.S.玛丽苏的对应男主就是「龙傲天」，听名字有木有一种狂拽屌炸天的感觉？</p>
-</blockquote>
-<h3 id="@大band-clown推荐《法式诱惑》">@大band-clown推荐《法式诱惑》</h3>
-<p>@大band-clown说这本书主要讲述的是法国人对待暧昧的态度。举个例子，法国人对总统玩暧昧表示理解，认为这是一个人的正常表现，证明这个总统有体力，而美国人则对美国总统玩暧昧表示不可原谅。</p>
-<p>另外一个例子就是法国艾菲尔铁塔的建造。当时法国有支持有反对，但后来反对派为什么倒戈了，就是因为支持派将艾菲尔铁塔比喻成了一个叉开双腿的女人，将灯光比作衣裳，将铁塔的每一截都比喻成女人身体的一部分，法国人看到这样的比喻突然觉得还不错，于是就通过了。</p>
-<blockquote>
-<p>小分叉：我在google上查「埃菲尔+性暗示」，没有得到更多的资料。</p>
-</blockquote>
-<h3 id="@糖心推荐《南方有令秧》">@糖心推荐《南方有令秧》</h3>
-<p>@糖心说这本书其实可以叫做《明朝女明星和经纪人的故事》，讲述一个商家少女令秧嫁给一个大家族，但丈夫早死，家族便强逼令秧自杀，以此获得贞节牌坊，但是令秧不从。此时有一个好心人帮助，同情令秧的遭遇，成为她的战友，想方设法为她争取生存的时间，赢得贞节牌坊……这个故事较为复杂，这里就不说了。</p>
-<blockquote>
-<p>小分叉：@MissYou对贞节牌坊产生了兴趣，于是</p>
-<p>贞节最早指有纯正高洁的道德观念的女性。后狭义指“贞节牌坊”，通常是古时用来表彰一些或死了丈夫长年不改嫁，或自杀殉葬，而符合当时年代道德要求，流传特异事迹的女性，为其兴建的牌坊建筑。</p>
-<p>每一处牌坊下，不是埋葬了一个活泼泼的生命，至少也埋葬了一个女子数十年的青春。</p>
-<p>经过金、元、明三代对贞节观念的极端倡导，在进入清朝以后，贞节的含义变得十分偏狭了，似乎成了一种宗教，非但夫死守节成了天理，未嫁夫死，也要尽节，偶为男子调戏也要寻死。</p>
-</blockquote>
-<h3 id="@MissYou推荐《细小》">@MissYou推荐《细小》</h3>
-<p>@MissYou说了在读这本书期间发生的一个故事：她去参加一个宴会，宴会上一个老师在讲课，这个老师十分励志，讲课的时候容光焕发，总会让人觉得她在发光。她说她小时候是一个三差女，她小时候的梦想就是成为一名的纺织女工，别人问她梦想，她也就这样回答，她没有觉得不妥，别人也认为她这个样子也只能当个纺织工，但是当她参加一节音乐课，一位老师对她说，你的歌也唱得不错哦，这句话激发了她的信心，她就觉得她的人生还有另一个选择。后来，她进入礼仪领域，成为一名很好礼仪培训师。</p>
-<p>所以说，不要嘲笑别人的梦想。</p>
-<blockquote>
-<p>小分叉：国际友人说什么都是狗屎会不会太狗屎了？</p>
-<p>小分叉：一个孩子说长大要拿数学诺贝尔奖，你能告诉他数学是没有诺贝尔奖的吗？</p>
-<p>小分叉：为什么没有诺贝尔数学奖?</p>
-<p>1.诺贝尔认为数学不属于应用科学范畴，不会给人类带来任何利益；</p>
-<p>2.当时在数学领域内已经有了一个很有影响力的数学奖，叫斯堪的纳维亚奖（Scandinavian prize）.<br>3.诺贝尔有钱任性，我设什么奖干你什么事？</p>
-<p>小分叉：阿jie讲了一个关于国际友人的故事，@MissYou又说了个《甲方乙方》的段子……</p>
-<p>小分叉：罗永浩说不被嘲笑的梦想不值得实现。@Feat</p>
-<p>小分叉：庞麦郎与梦想的故事。@Feat</p>
-<p>小分叉：赞美与《法式诱惑》插图的故事。@Feat</p>
-<p>小分叉：赞美别人和自己觉得爽的关系。@大band-clown</p>
-<p>小分叉：赞美首先是自己很爽，然后副作用是让别人很爽，最后让双方很爽。</p>
-</blockquote>
-<h3 id="@阿jie推荐独立杂志《够用就好》">@阿jie推荐独立杂志《够用就好》</h3>
-<p>@阿jie路过鸡山村发现里面的住户的居住条件比较简朴，居民一间房就一盏灯，一部电视，说得好就满足，说的不好就叫将就。而外国设计师的屋子也几乎这样，但完美得令人不敢相信。现实的生活跟纸上的生活还是有差距，这本书就仿似是作者自己写给过去自己的书。</p>
-<hr>
-<h3 id="【一期一会】"><strong>【一期一会】</strong></h3>
-<p><img src="http://cnfeat.qiniudn.com/111.jpg" alt=""></p>
-<hr>
-<p><img src="http://7d9mjz.com1.z0.glb.clouddn.com/2014-12-15.jpg" alt=""></p>
-<p>（题图：Tour Eiffel by Elena Kolpakova）</p>
-<p>了解到艾菲尔铁塔的性暗示之后，你是否可以了解为什么多人喜欢去拍埃尔菲铁塔，回复关键词「铁塔」给你看一张图。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[支持派将艾菲尔铁塔比喻成了一个叉开双腿的女人，将灯光比作衣裳，将铁塔的每一截都比喻成女人身体的一部分，法国人看到这样的比喻突然觉得还不错，于是就通过了。]]>
-    
-    </summary>
-    
-      <category term="分享" scheme="http://www.cnfeat.com/tags/%E5%88%86%E4%BA%AB/"/>
-    
-      <category term="读书会" scheme="http://www.cnfeat.com/tags/%E8%AF%BB%E4%B9%A6%E4%BC%9A/"/>
     
       <category term="这就是生活" scheme="http://www.cnfeat.com/categories/%E8%BF%99%E5%B0%B1%E6%98%AF%E7%94%9F%E6%B4%BB/"/>
     
