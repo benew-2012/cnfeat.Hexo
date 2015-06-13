@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.cnfeat.com/2015/01/19/2015-01-15-reading-club-6/</loc>
+    <lastmod>2015-06-13T03:04:11.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.cnfeat.com/2015/01/19/2015-01-19-reading-club-6/</loc>
+    <lastmod>2015-06-13T03:03:51.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.cnfeat.com/2015/01/11/2015-01-11-reading-club-4/</loc>
+    <lastmod>2015-06-13T03:03:37.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.cnfeat.com/2015/01/05/2015-01-05-twelve-photos/</loc>
+    <lastmod>2015-06-13T03:03:22.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.cnfeat.com/2015/06/12/2015-06-12-OKR/</loc>
+    <lastmod>2015-06-12T05:25:45.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.cnfeat.com/2015/06/10/2015-06-10-Journal-of-writing-1/</loc>
     <lastmod>2015-06-10T03:13:29.000Z</lastmod>
   </url>
@@ -12,8 +37,13 @@
   </url>
   
   <url>
+    <loc>http://www.cnfeat.com/2015/05/25/2015-05-25-baby-teaching/</loc>
+    <lastmod>2015-05-25T07:53:52.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.cnfeat.com/2015/05/22/2015-05-22-a-24-chinese-fonts/</loc>
-    <lastmod>2015-05-22T05:51:30.000Z</lastmod>
+    <lastmod>2015-05-22T06:58:50.000Z</lastmod>
   </url>
   
   <url>
@@ -23,7 +53,7 @@
   
   <url>
     <loc>http://www.cnfeat.com/2015/05/01/2015-05-01-affordance/</loc>
-    <lastmod>2015-05-02T18:03:45.000Z</lastmod>
+    <lastmod>2015-05-07T08:53:30.000Z</lastmod>
   </url>
   
   <url>
@@ -42,13 +72,13 @@
   </url>
   
   <url>
-    <loc>http://www.cnfeat.com/2015/02/22/2015-02-22-source-of-knowledge/</loc>
-    <lastmod>2015-03-02T04:24:09.000Z</lastmod>
+    <loc>http://www.cnfeat.com/2015/02/23/2015-02-23-cars-of-writing/</loc>
+    <lastmod>2015-03-02T03:49:50.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://www.cnfeat.com/2015/02/23/2015-02-23-cars-of-writing/</loc>
-    <lastmod>2015-03-02T03:49:50.000Z</lastmod>
+    <loc>http://www.cnfeat.com/2015/02/22/2015-02-22-source-of-knowledge/</loc>
+    <lastmod>2015-03-02T03:49:39.000Z</lastmod>
   </url>
   
   <url>
@@ -68,7 +98,7 @@
   
   <url>
     <loc>http://www.cnfeat.com/2015/02/09/2015-02-09-learn-by-friends/</loc>
-    <lastmod>2015-03-02T03:32:41.000Z</lastmod>
+    <lastmod>2015-03-02T03:32:58.000Z</lastmod>
   </url>
   
   <url>
@@ -83,7 +113,7 @@
   
   <url>
     <loc>http://www.cnfeat.com/2015/02/13/2015-02-13-bawangcan/</loc>
-    <lastmod>2015-02-13T13:57:39.000Z</lastmod>
+    <lastmod>2015-02-13T13:58:45.000Z</lastmod>
   </url>
   
   <url>
@@ -118,7 +148,7 @@
   
   <url>
     <loc>http://www.cnfeat.com/2015/02/02/2015-02-02-shadowsocks/</loc>
-    <lastmod>2015-02-02T05:26:23.000Z</lastmod>
+    <lastmod>2015-02-02T07:50:21.000Z</lastmod>
   </url>
   
   <url>
@@ -187,16 +217,6 @@
   </url>
   
   <url>
-    <loc>http://www.cnfeat.com/2014/01/19/2015-01-19-reading-club-6/</loc>
-    <lastmod>2015-01-20T01:37:56.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.cnfeat.com/2014/01/19/2015-01-15-reading-club-6/</loc>
-    <lastmod>2015-01-19T03:12:56.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.cnfeat.com/2015/01/15/2015-01-15-reading-club-5/</loc>
     <lastmod>2015-01-15T06:46:19.000Z</lastmod>
   </url>
@@ -214,11 +234,6 @@
   <url>
     <loc>http://www.cnfeat.com/2015/01/12/2015-01-12-jianshu-500-2/</loc>
     <lastmod>2015-01-12T13:52:54.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.cnfeat.com/2014/01/11/2015-01-11-reading-club-4/</loc>
-    <lastmod>2015-01-11T06:23:20.000Z</lastmod>
   </url>
   
   <url>
@@ -244,11 +259,6 @@
   <url>
     <loc>http://www.cnfeat.com/2015/01/06/2015-01-06-find-freedom-in-coffee/</loc>
     <lastmod>2015-01-05T16:00:32.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.cnfeat.com/2014/01/05/2015-01-05-twelve-photos/</loc>
-    <lastmod>2015-01-04T07:50:07.000Z</lastmod>
   </url>
   
   <url>
@@ -537,13 +547,33 @@
   </url>
   
   <url>
+    <loc>http://www.cnfeat.com/2014/11/09/2014-11-09-How-to-downloa-%20videos/</loc>
+    <lastmod>2014-11-09T10:39:49.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.cnfeat.com/2014/10/29/2014-10-29-zhuhai-changlong/</loc>
+    <lastmod>2014-11-05T13:47:03.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.cnfeat.com/2014/11/08/2014-11-08-poor-Charlie-almanack-2/</loc>
     <lastmod>2014-11-05T02:42:43.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://www.cnfeat.com/2014/11/09/2014-11-09-How-to-downloa-%20videos/</loc>
-    <lastmod>2014-11-04T01:57:06.000Z</lastmod>
+    <loc>http://www.cnfeat.com/2014/11/04/2014-11-04-muxin-walk-around/</loc>
+    <lastmod>2014-11-05T02:07:52.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.cnfeat.com/2014/11/03/2014-11-03-muxin-passing/</loc>
+    <lastmod>2014-11-05T02:07:34.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.cnfeat.com/2014/11/02/2014-11-02-GFW/</loc>
+    <lastmod>2014-11-05T02:07:06.000Z</lastmod>
   </url>
   
   <url>
@@ -589,11 +619,6 @@
   <url>
     <loc>http://www.cnfeat.com/2014/11/04/2014-11-04-GFW/</loc>
     <lastmod>2014-10-29T10:33:59.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.cnfeat.com/2014/10/29/2014-10-29-zhuhai-changlong/</loc>
-    <lastmod>2014-10-29T10:18:29.000Z</lastmod>
   </url>
   
   <url>
@@ -678,7 +703,7 @@
   
   <url>
     <loc>http://www.cnfeat.com/2014/10/13/2014-10-13-sadness-3/</loc>
-    <lastmod>2014-10-15T09:19:50.000Z</lastmod>
+    <lastmod>2014-10-15T09:19:34.000Z</lastmod>
   </url>
   
   <url>
